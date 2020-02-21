@@ -105,7 +105,7 @@ ModelImporter:
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      bodyMask: 0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events: []
       transformMask:
@@ -215,7 +215,8 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d8a208e861797f14db629d906d9e98d1,
+    type: 3}
   animationType: 2
   humanoidOversampling: 2
   additionalBone: 0
